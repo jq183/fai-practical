@@ -7,7 +7,7 @@
 ### Setup (One-time)
 ```bash
 git config --global user.name "JQ"
-git config --global user.email "your.email@example.com"
+git config --global user.email "ghchgcv.email@example.com"
 ```
 
 ### Getting Started Steps
